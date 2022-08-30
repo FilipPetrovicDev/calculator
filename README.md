@@ -1,6 +1,6 @@
 # Calculator
 
-A Flutter Calculator app.
+A Flutter Calculator app for android an iOS.
 
 - [Basic math logic]
 - [Modern and simple UI]
